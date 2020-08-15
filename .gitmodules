@@ -1,0 +1,3 @@
+[submodule "dgm"]
+	path = dgm
+	url = https://github.com/crisbodnar/dgm
