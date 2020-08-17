@@ -1,8 +1,6 @@
 # WSI-GTFE
 
-
-
-Code is undergoing refactoring from our original command line interface. We will update our code base with a fully functioning CLI. For now, we have included some example notebooks for getting started on your own datasets in the notebooks section.    
+Code is undergoing refactoring from our original command line interface. We will update our code base with a fully functioning CLI. For now, we have included some example notebooks for getting started on your own datasets in the notebooks section. For now, this repository outlines analyzing inductive Whole Slide Graph patch-level classification, but various portions of this framework may be changed for self-supervised and whole-slide level objectives.  
 
 Feel free to check out our article, here: https://www.biorxiv.org/content/10.1101/2020.08.01.231639v1  
 
